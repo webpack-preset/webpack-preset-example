@@ -1,0 +1,24 @@
+{
+  "name": "webpack-preset-example",
+  "version": "1.0.0",
+  "description": "An example of using Webpack Preset",
+  "author": "Tim Dorr <timdorr@timdorr.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpack-preset/webpack-preset-example.git"
+  },
+  "homepage": "https://github.com/webpack-preset/webpack-preset-example",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-preset"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "webpack-preset": "0.0.2",
+    "webpack-preset-babel": "^0.1.0",
+    "webpack-preset-babel-es2015": "^0.1.0",
+    "webpack-preset-babel-react": "^0.1.0"
+  }
+}
